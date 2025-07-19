@@ -13,8 +13,6 @@
 - 🐧 **Linux** – terminal basics, shell scripting, permissions  
 - 📊 **Data Science Basics** – data handling, analysis, and visualization  
 
-## 📍 Based in Sofia | 🌐 [LinkedIn: atanas-shopov](https://linkedin.com/in/atanas-shopov-b28352123)
-
 ## 🧠 AI Learning – 2025
 
 🚀 Participating in SoftUni’s **AI Basics & Vibe Coding** training (Sep 2025)
@@ -26,3 +24,5 @@
 - Authentication & database integration
 - Site creation with persistent storage & user login
 - Using ChatGPT, Claude, Gemini, Copilot for generation (text, audio, image, video)
+  
+## 📍 Based in Sofia | 🌐 [LinkedIn: atanas-shopov](https://linkedin.com/in/atanas-shopov-b28352123)
