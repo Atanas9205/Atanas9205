@@ -16,3 +16,14 @@
 
 ## 📍 Based in Sofia | 🌐 [LinkedIn: atanas-shopov](https://linkedin.com/in/atanas-shopov-b28352123)
 
+## 🧠 AI Learning – 2025
+
+🚀 Participating in SoftUni’s **AI Basics & Vibe Coding** training (Sep 2025)
+
+**Topics covered:**
+- No-code development using platforms like Replit, Firebase Studio & Bolt
+- Prompt engineering – creating, editing & expanding AI-powered apps
+- App deployment with Supabase & Netlify
+- Authentication & database integration
+- Site creation with persistent storage & user login
+- Using ChatGPT, Claude, Gemini, Copilot for generation (text, audio, image, video)
