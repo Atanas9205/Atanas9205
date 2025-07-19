@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Atanas M. Shopov
 
-💼 Specialist with interdisciplinary experience in biotechnology, biomedical engineering, and the pharmaceutical industry – now also expanding into QSAR and mathematical modeling.  
-🔬 Experienced in clinical research, GCP, QSAR & peptide therapeutics.  
-🧪 Currently expanding into QA & Python development – automation, testing & software quality.  
+💼 Specialist with interdisciplinary experience in biotechnology, biomedical engineering, and the pharmaceutical industry – currently expanding into QSAR and mathematical modeling.
+🔬 Skilled in clinical research, GCP & peptide therapeutics.
+🧪 Gaining expertise in QA & Python development – automation, testing & software quality.
 🌍 Passionate about science, technology & lifelong learning.
 
 ## 📚 Currently Learning
