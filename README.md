@@ -14,4 +14,5 @@
 - 📊 **Data Science Basics** – data handling, analysis, and visualization  
 - 🤖 **AI Basics & Coding** – through SoftUni & Vibe platforms
 
-## 📍 Based in Sofia | 🌐 LinkedIn:(linkedin.com/in/atanas-shopov-b28352123)
+## 📍 Based in Sofia | 🌐 [LinkedIn: atanas-shopov](https://linkedin.com/in/atanas-shopov-b28352123)
+
