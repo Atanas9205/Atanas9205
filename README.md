@@ -1,19 +1,19 @@
 # 👋 Hi, I’m Atanas M. Shopov
 
-💼 Specialist with interdisciplinary experience in biotechnology, biomedical engineering, and the pharmaceutical industry – currently expanding into QSAR and mathematical modeling.
-🔬 Skilled in clinical research, GCP & peptide therapeutics.
-🧪 Gaining expertise in QA & Python development – automation, testing & software quality.
-🌍 Passionate about science, technology & lifelong learning.
+Specialist with interdisciplinary experience in biotechnology, biomedical engineering, and the pharmaceutical industry – currently expanding into QSAR and mathematical modeling.
+Skilled in clinical research, GCP & peptide therapeutics.
+Gaining expertise in QA & Python development – automation, testing & software quality.
+Passionate about science, technology & lifelong learning.
 
 ## 📚 Currently Learning
 
-- 🧪 **QA Fundamentals** – software testing principles, bug tracking, documentation  
-- 🐍 **Python Programming** – OOP, automation, and scripting  
-- 🧠 **Deep Learning** – core ML concepts, models, use cases  
-- 🐧 **Linux** – terminal basics, shell scripting, permissions  
-- 📊 **Data Science Basics** – data handling, analysis, and visualization  
+- **QA Fundamentals** – software testing principles, bug tracking, documentation  
+- **Python Programming** – OOP, automation, and scripting  
+- **Deep Learning** – core ML concepts, models, use cases  
+- **Linux** – terminal basics, shell scripting, permissions  
+- **Data Science Basics** – data handling, analysis, and visualization  
 
-## 🧠 AI Learning – 2025
+## AI Learning – 2025
 
 🚀 Participating in SoftUni’s **AI Basics & Vibe Coding** training (Sep 2025)
 
